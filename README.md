@@ -12,7 +12,7 @@ This repo showcases my work as a **Front-End Web Developer**, where I build mode
 ## 👨‍💻 About Me  
 I’m a passionate **Front-End Developer** who enjoys turning ideas into interactive web experiences.  
 
-- 💡 Skilled in **HTML, CSS, JavaScript, React**  
+- 💡 Skilled in **HTML, CSS, JavaScript**  
 - 🎨 Focused on **clean UI/UX design**  
 - 📱 Creating **responsive and mobile-first applications**  
 - 🚀 Always learning and improving my craft  
@@ -36,8 +36,6 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
 
 ---
 
@@ -51,9 +49,9 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 ## 📬 Contact Me  
 Let’s connect and build something great together!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-mahmood-7327b0301)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Mohammed-004del/mohamed-webdev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:MohammedMahmoodHamed004@gmail.com)
 
 ---
 
