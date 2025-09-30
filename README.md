@@ -2,7 +2,7 @@
 Showcasing my journey as a front-end web developer through real-world projects, clean UI design, and modern development practices.
 # 🌐 Front-End Developer Portfolio  
 
-![Banner](https://i.ibb.co/7Y5zj5F/portfolio-banner.png)  
+![Banner](assets/banner.png) 
 
 🚀 Welcome to my portfolio repository!  
 This repo showcases my work as a **Front-End Web Developer**, where I build modern, responsive, and user-friendly web applications.  
