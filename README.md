@@ -14,7 +14,7 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 
 - 💡 Skilled in **HTML, CSS, JavaScript**  
 - 🎨 Focused on **clean UI/UX design**  
-- 📱 Creating **responsive and mobile-first applications**  
+- 📱 Creating **responsive websites**  
 - 🚀 Always learning and improving my craft  
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
