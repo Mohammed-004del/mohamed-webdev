@@ -25,7 +25,7 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| 🎯 **Landing Page** | A responsive landing page with modern UI | [Live Demo](#) |
+| 🎯 **Landing Page** | A responsive landing page with modern UI | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/) |
 | 🛒 **E-commerce UI** | Product listing, cart, and checkout flow | [Live Demo](#) |
 | 📊 **Dashboard App** | Interactive charts and data visualization | [Live Demo](#) |
 
