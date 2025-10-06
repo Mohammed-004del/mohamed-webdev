@@ -25,9 +25,11 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| 🎯 **Landing Page** | A responsive landing page with modern UI | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/) |
+| 🎯 **Adidas Landing Page** | A responsive landing page with modern UI | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/) |
+| 📱 **iPhone Landing Page** | Sleek showcase for iPhone 13 Pro Max | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-iphone-design/) |
 | 🛒 **E-commerce UI** | Product listing, cart, and checkout flow | [Live Demo](#) |
 | 📊 **Dashboard App** | Interactive charts and data visualization | [Live Demo](#) |
+
 
 ---
 
