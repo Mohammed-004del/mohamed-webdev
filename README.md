@@ -53,9 +53,10 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 ## 📬 Contact Me  
 Let’s connect and build something great together!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-mahmood-7327b0301)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Mohammed-004del/mohamed-webdev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:MohammedMahmoodHamed004@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-mahmood-7327b0301)  
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Mohammed-004del/mohamed-webdev)  
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:MohammedMahmoodHamed004@gmail.com)  
+
 
 ---
 
