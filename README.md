@@ -28,7 +28,11 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 | 🏃‍♂️ **Adidas Landing Page** | A responsive landing page with modern UI | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/) |
 | 📱 **iPhone Landing Page** | Sleek showcase for iPhone 13 Pro Max | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-iphone-design/) |
 | 🎓 **E-Learning Landing page** | Interactive landing page showcasing online courses and platform features | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-E-Learning-Landingpage/) |
-| 📊 **Dashboard App** | Interactive charts and data visualization | [Live Demo](#) |
+| 🎚️ **Equalizer App Landing page** | A clean landing page showcasing the Equalizer app and its key features | [Live Demo](#) |
+| 🖼️ **Photo Editor project** | A simple photo editor interface with basic effects and interactive UI elements | [Live Demo](#) |
+| 🗂️ **CRUD** | A CRUD project for creating, updating, deleting, and displaying data efficiently | [Live Demo](#) |
+| 🎞️ **scroll Animation project** | A smooth scroll-animation page demonstrating interactive motion effects | [Live Demo](#) |
+| 📊 **Dashboard** | Interactive charts and data visualization | [Live Demo](#) |
 
 
 ---
@@ -45,7 +49,11 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 - 🔗 [My Portfolio Website](#)  
 - 🔗 [Adidas Landing Page Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/)
 - 🔗 [iPhone Landing Page Demo](https://mohammed-004del.github.io/mohamed-webdev-iphone-design/)
-- 🔗 [E-Learning Landing page](https://mohammed-004del.github.io/mohamed-webdev-E-Learning-Landingpage/)
+- 🔗 [E-Learning Landing page Demo](https://mohammed-004del.github.io/mohamed-webdev-E-Learning-Landingpage/)
+- 🔗 [Equalizer App Landing page Demo](#)
+- 🔗 [Photo Editor project Demo](#)
+- 🔗 [CRUD Demo](#)
+- 🔗 [scroll Animation project Demo](#)
 - 🔗 [Dashboard Demo](#)
  
 
