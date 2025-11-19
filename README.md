@@ -7,11 +7,6 @@ Showcasing my journey as a front-end web developer through real-world projects, 
 🚀 Welcome to my portfolio repository!  
 This repo showcases my work as a **Front-End Web Developer**, where I build modern, responsive, and user-friendly web applications.
 
----
-
-# 📂 Portfolio  
-Explore my featured front-end projects showcasing modern UI/UX, responsive layouts, and practical real-world implementations.
-
 ### 🔗 **Live Portfolio Demo:**  
 👉 [Click here to view the portfolio](YOUR-PORTFOLIO-LINK-HERE)
 
