@@ -25,9 +25,9 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| 🎯 **Adidas Landing Page** | A responsive landing page with modern UI | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/) |
+| 🏃‍♂️ **Adidas Landing Page** | A responsive landing page with modern UI | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/) |
 | 📱 **iPhone Landing Page** | Sleek showcase for iPhone 13 Pro Max | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-iphone-design/) |
-| 🛒 **E-commerce UI** | Product listing, cart, and checkout flow | [Live Demo](#) |
+| 🎓 **E-Learning Landing page** | Interactive landing page showcasing online courses and platform features | [Live Demo](https://mohammed-004del.github.io/mohamed-webdev-E-Learning-Landingpage/) |
 | 📊 **Dashboard App** | Interactive charts and data visualization | [Live Demo](#) |
 
 
@@ -43,9 +43,10 @@ I’m a passionate **Front-End Developer** who enjoys turning ideas into interac
 
 ## 🌐 Live Demos  
 - 🔗 [My Portfolio Website](#)  
-- 🔗 [Adidas Landing Page Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/)  
-- 🔗 [iPhone Landing Page Demo](https://mohammed-004del.github.io/mohamed-webdev-iphone-design/)  
-- 🔗 [Dashboard Demo](#)  
+- 🔗 [Adidas Landing Page Demo](https://mohammed-004del.github.io/mohamed-webdev-project-1/)
+- 🔗 [iPhone Landing Page Demo](https://mohammed-004del.github.io/mohamed-webdev-iphone-design/)
+- 🔗 [E-Learning Landing page](https://mohammed-004del.github.io/mohamed-webdev-E-Learning-Landingpage/)
+- 🔗 [Dashboard Demo](#)
  
 
 ---
