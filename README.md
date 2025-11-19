@@ -9,6 +9,14 @@ This repo showcases my work as a **Front-End Web Developer**, where I build mode
 
 ---
 
+# 📂 Portfolio  
+Explore my featured front-end projects showcasing modern UI/UX, responsive layouts, and practical real-world implementations.
+
+### 🔗 **Live Portfolio Demo:**  
+👉 [Click here to view the portfolio](YOUR-PORTFOLIO-LINK-HERE)
+
+---
+
 ## 👨‍💻 About Me  
 I’m a passionate **Front-End Developer** who enjoys turning ideas into interactive web experiences.  
 
